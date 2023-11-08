@@ -10,3 +10,6 @@
 - LinkedIn Profile:            GH Profile:
 ### David Renteria
 - LinkedIn Profile:            GH Profile
+
+## Project Management Link:
+- https://github.com/orgs/CF201Group2/projects/1/views/1
