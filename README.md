@@ -1,21 +1,21 @@
 # Documentation
-- This repo will be used to link our Team Agreement, System Selectioin, diagrams, SOPs, and presentation slideshow
+- This repo will be used to link our Team Agreement, System Selection, diagrams, SOPs, and presentation slideshow
 
 ## Members
 ### Juan Maldonado
-- [LinkedIn]()
-- [GitHub]()
+- [LinkedIn](https://www.linkedin.com/in/juan-maldonado-163733b7/)
+- [GitHub](https://github.com/Juan-bit94)
 ### Rodolfo Gonzalez
 - [LinkedIn](http://www.linkedin.com/in/rgonzo1355)
 - [GitHub](https://github.com/rgonzo1355)
 ### John Kelly
-- [LinkedIn]()
-- [GitHub]()
+- [LinkedIn](https://www.linkedin.com/in/john-f-k/)
+- [GitHub](https://github.com/JFKELLY89)
 ### David Renteria
 - [LinkedIn](https://www.linkedin.com/in/drent23/)
 - [GitHub](https://github.com/drent23)
 
-## Project Management Link:
+## Project Management Kanban Board:
 - https://github.com/orgs/CF201Group2/projects/1/views/1
 
 ## SOPs:
