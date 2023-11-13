@@ -3,13 +3,17 @@
 
 ## Members
 ### Juan Maldonado
-- LinkedIn Profile:            GH Profile:
+- [LinkedIn]()
+- [GitHub]()
 ### Rodolfo Gonzalez
-- LinkedIn Profile:            GH Profile:
+- [LinkedIn](http://www.linkedin.com/in/rgonzo1355)
+- [GitHub](https://github.com/rgonzo1355)
 ### John Kelly
-- LinkedIn Profile:            GH Profile:
+- [LinkedIn]()
+- [GitHub]()
 ### David Renteria
-- [LinkedIn](https://www.linkedin.com/in/drent23/) GH Profile
+- [LinkedIn](https://www.linkedin.com/in/drent23/)
+- [GitHub](https://github.com/drent23)
 
 ## Project Management Link:
 - https://github.com/orgs/CF201Group2/projects/1/views/1
