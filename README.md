@@ -8,7 +8,7 @@
 -
 
 ## Network Topology
--![Network Topo](https://github.com/CF201Group2/Documentation-Diagrams/assets/147424198/32a2f81e-5883-4fc5-ad15-60c970bd0919)
+-![Network Topo](https://github.com/CF201Group2/Documentation-Diagrams/assets/147424198/a7f355ff-2fa5-443e-a13d-20ca4af67248)
 
 
 ## SOPs:
